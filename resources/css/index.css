@@ -8,6 +8,7 @@
   
    a {
     text-decoration: none;
+    color: #d96434;
    }
    li {
     list-style: none;
@@ -89,6 +90,12 @@
 }
 .ingredients ul {
     list-style-position: inside;
+}
+.ingredients h2 {
+    color: #d96434;
+}
+.preparation h2 {
+    color: #d96434;
 }
 footer {
     background-color: #88a085;
